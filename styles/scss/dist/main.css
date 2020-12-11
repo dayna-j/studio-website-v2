@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: futura-pt;
+  font-weight: 300;
+  font-size: 22px;
+  letter-spacing: 0.06em;
+  line-height: 1.6em;
+  /* background-color: purple; */
+}
+
+.page-wrapper {
+  position: relative;
+}
+
+@media (min-width: 480px) {
+  body {
+    background-color: #dad891;
+  }
+}
+@media (min-width: 768px) {
+  body {
+    background-color: #491010;
+  }
+}
+@media (min-width: 992px) {
+  body {
+    background-color: #6a578a;
+  }
+}
+@media (min-width: 1280px) {
+  body {
+    background-color: #0f65aa;
+  }
+}

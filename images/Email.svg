@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 100 125"
+   id="svg841"
+   sodipodi:docname="Email.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs845" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     id="namedview843"
+     showgrid="false"
+     inkscape:zoom="5.74"
+     inkscape:cx="50"
+     inkscape:cy="55.531359"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg841"
+     inkscape:document-rotation="0" />
+  <g
+     transform="translate(1e-7,-939.86219)"
+     id="g835">
+    <path
+       style="color:#000000;text-indent:0;text-transform:none;direction:ltr;baseline-shift:baseline;enable-background:accumulate"
+       d="m 10.9688,975.36219 c -1.6409002,0 -2.9688002,1.3988 -2.9688002,3 v 48.00001 c 0,1.6012 1.3279,3 2.9688002,3 h 78.0624 c 1.6409,0 2.9688,-1.3988 2.9688,-3 v -48.00002 c 0,-1.6012 -1.3279,-3 -2.9688,-3 H 10.9688 Z m 1.0312,4 h 76 v 5 L 50,1012.8622 12,984.36219 Z m 0,10 36.8125,27.59381 a 2.0001996,2.0001996 0 0 0 2.375,0 L 88,989.36219 v 36.00001 H 12 Z"
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       marker="none"
+       visibility="visible"
+       display="inline"
+       overflow="visible"
+       id="path833" />
+  </g>
+</svg>
